@@ -31,11 +31,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- ReactJS
 
 ## 🚧 Projeto
 
-Construir um Buscador de CEP, via API.
+Construir um Website sobre carros.
 
 
 ## :memo: Licença
